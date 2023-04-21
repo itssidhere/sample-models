@@ -52,7 +52,7 @@
     ],
     "buffers": [
         {
-            "uri": "Unicode❤♻Binary.bin",
+            "uri": "scene.bin",
             "byteLength": 152
         }
     ],
@@ -120,7 +120,7 @@
     ],
     "images": [
         {
-            "uri": "Unicode❤♻Texture.png"
+            "uri": "scene.png"
         }
     ],
     "textures": [
